@@ -1,0 +1,8 @@
+Main=1243.0
+Sub=752.0
+Main Cap=69
+Sub Cap=66
+Main=1243.0
+Sub=752.0
+Main Cap=69
+Sub Cap=66
